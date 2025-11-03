@@ -1,1 +1,1 @@
-# Project_no.7
+# Selfish-Mining-Analysis-of-Qubic
